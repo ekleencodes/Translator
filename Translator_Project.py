@@ -7,7 +7,7 @@ root=Tk()
 root.title("Translator")
 root.geometry("880x300")
 
-def translate_it():
+def translate_it()
     text2.delete(1.0,END)
     try:
         for key,value in languages.items():
